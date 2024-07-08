@@ -1,0 +1,4 @@
+../Core/Src/main.c:31:5:main	48	static
+../Core/Src/main.c:120:6:SystemClock_Config	88	static
+../Core/Src/main.c:162:6:systemClockOverride	80	static
+../Core/Src/main.c:387:6:Error_Handler	4	static,ignoring_inline_asm

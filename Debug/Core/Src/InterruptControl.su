@@ -1,0 +1,5 @@
+../Core/Src/InterruptControl.c:8:6:IRQ_enable_intrp	16	static
+../Core/Src/InterruptControl.c:19:6:IRQ_disable_intrp	16	static
+../Core/Src/InterruptControl.c:30:6:IRQ_clear_pending_intrp	16	static
+../Core/Src/InterruptControl.c:41:6:IRQ_set_pending_intrp	16	static
+../Core/Src/InterruptControl.c:52:6:EXTI_clear_pending_intrp	16	static

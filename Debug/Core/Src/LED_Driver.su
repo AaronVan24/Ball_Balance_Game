@@ -1,0 +1,4 @@
+../Core/Src/LED_Driver.c:13:6:init_Specific_LED	24	static
+../Core/Src/LED_Driver.c:42:6:toggle_LED	16	static
+../Core/Src/LED_Driver.c:59:6:disable_LED	16	static
+../Core/Src/LED_Driver.c:76:6:enable_LED	16	static

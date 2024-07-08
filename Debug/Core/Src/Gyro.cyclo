@@ -1,0 +1,12 @@
+../Core/Src/Gyro.c:18:6:Gyro_init	1
+../Core/Src/Gyro.c:54:6:Gyro_deviceID	3
+../Core/Src/Gyro.c:69:6:Gyro_power	1
+../Core/Src/Gyro.c:85:6:Gyro_reboot	1
+../Core/Src/Gyro.c:104:6:Gyro_configure_regs	1
+../Core/Src/Gyro.c:133:6:Gyro_verify_HAL_status	2
+../Core/Src/Gyro.c:139:6:Gyro_enable_slave_communication	1
+../Core/Src/Gyro.c:143:6:Gyro_disable_slave_communication	1
+../Core/Src/Gyro.c:146:7:Gyro_getx	3
+../Core/Src/Gyro.c:162:10:getxhigh	2
+../Core/Src/Gyro.c:175:10:getxlow	2
+../Core/Src/Gyro.c:188:7:getXAngle	1
